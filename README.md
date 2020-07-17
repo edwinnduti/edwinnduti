@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**edwinnduti/edwinnduti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**edwinnduti/edwinnduti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h3 align="center">A passionate developer from Kenya.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwinnduti" alt="edwinnduti" /> </p>
