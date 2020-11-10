@@ -12,7 +12,7 @@
 
 - 📝 I regulary write articles on [https://dev.to/nduti](https://dev.to/nduti)
 
-- 💬 Ask me about **Golang,Javascript,Node.js,Express.js**
+- 💬 Ask me about **Golang,Javascript,Python,Node.js,Express.js**
 
 - 📫 How to reach me **nduti316@gmail.com**
 
