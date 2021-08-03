@@ -1,8 +1,7 @@
-### Hi there 👋, I'm Edwin Nduti.
+<div align="center">
+### Yo! yo!...Hey there! 👋, I'm Edwin Nduti.
 
-<!--
-**edwinnduti/edwinnduti** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+<br />
 <h3 align="center">A passionate developer from Kenya.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwinnduti" alt="edwinnduti" /> </p>
 
@@ -19,6 +18,30 @@
 - 📫 How to reach me **nduti316@gmail.com**
 
 - ⚡ Fun fact *AI is the future* but I still love Anime and my favorite was Bleach.
+
+
+### **Having fun with these stack 👨🏽‍💻**
+<br />
+<div>
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+</div>
+<br/>
+
+<div>
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+<br/>
+
+<div>
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
+<br />
 
 #### Be on the Know that I do:
 <div>
@@ -46,3 +69,4 @@ Other      8 mins          ▒░░░░░░░░░░░░░░░░�
 <a href="https://linkedin.com/in/edwin-nduti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="edwin nduti" height="20" width="20" /></a>
 <a href="https://facebook.com/edthebigguy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="edthebigguy" height="20" width="20" /></a>
 </p>
+</div>
