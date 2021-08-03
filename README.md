@@ -19,7 +19,8 @@
 - 📫 How to reach me **nduti316@gmail.com**
 
 - ⚡ Fun fact *AI is the future* but I still love Anime and my favorite was Bleach.
-<!-- waka readme -->
+
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
