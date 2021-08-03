@@ -20,7 +20,7 @@
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwinnduti" alt="edwinnduti" /> </p>
 <div align="left">
-   <!-- - ✨ Some of my details are at [my portfolio site](https://edwinswebapp.herokuapp.com)-->
+   <!-- my details -->
 
   - ✨ Some of my details are at [my portfolio site](https://edwinswebapp.herokuapp.com)
   
