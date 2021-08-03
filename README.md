@@ -20,7 +20,7 @@
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwinnduti" alt="edwinnduti" /> </p>
 <div align="left">
-  - ✨ Some of my details are at [my portfolio site](https://edwinswebapp.herokuapp.com)
+   - ✨ Some of my details are at [my portfolio site](https://edwinswebapp.herokuapp.com)
   
   - 🔭 I’m currently working on [Course Evaluation System](https://lecpros.herokuapp.com)
 
