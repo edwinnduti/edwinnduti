@@ -20,19 +20,19 @@
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwinnduti" alt="edwinnduti" /> </p>
 <div align="left">
-- ✨ Some of my details are at [my portfolio site](https://edwinswebapp.herokuapp.com)
+  - ✨ Some of my details are at [my portfolio site](https://edwinswebapp.herokuapp.com)
   
-- 🔭 I’m currently working on [Course Evaluation System](https://lecpros.herokuapp.com)
+  - 🔭 I’m currently working on [Course Evaluation System](https://lecpros.herokuapp.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/edwinnduti](https://github.com/edwinnduti)
+  - 👨‍💻 All of my projects are available at [https://github.com/edwinnduti](https://github.com/edwinnduti)
 
-- 📝 I regulary write articles on [https://dev.to/nduti](https://dev.to/nduti)
+  - 📝 I regulary write articles on [https://dev.to/nduti](https://dev.to/nduti)
 
-- 💬 Ask me about **Anime**
+  - 💬 Ask me about **Anime**
 
-- 📫 How to reach me **nduti316@gmail.com**
+  - 📫 How to reach me **nduti316@gmail.com**
 
-- ⚡ Fun fact *AI is the future* but I still love Anime and my favorite was Bleach.
+  - ⚡ Fun fact *AI is the future* but I still love Anime and my favorite was Bleach.
 </div>
 
 
