@@ -21,6 +21,8 @@
 - ⚡ Fun fact *AI is the future* but I still love Anime and my favorite was Bleach.
 
 
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
 <!--START_SECTION:waka-->
 ```text
 Go         4 hrs 28 mins   ███████████████░░░░░░░░░░   60.58 % 
