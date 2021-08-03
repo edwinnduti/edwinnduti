@@ -1,5 +1,5 @@
 <div align="center">
-  ### Yo! yo!...Hey there! 👋, I'm Edwin Nduti.
+  <h2 align="left"> Yo! yo!...Hey there! 👋, I'm Edwin Nduti.</h2>
 
 <br />
 <h3 align="center">A passionate developer from Kenya.</h3>
