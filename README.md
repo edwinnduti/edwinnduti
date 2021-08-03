@@ -1,10 +1,10 @@
 <div align="center">
-### Yo! yo!...Hey there! 👋, I'm Edwin Nduti.
+  ### Yo! yo!...Hey there! 👋, I'm Edwin Nduti.
 
 <br />
 <h3 align="center">A passionate developer from Kenya.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwinnduti" alt="edwinnduti" /> </p>
-
+<div align="left">
 - ✨ Some of my details are at [my website](https://edwinswebapp.herokuapp.com)
 
 - 🔭 I’m currently working on [Learning Progress Tracker](https://lecpros.herokuapp.com)
@@ -18,7 +18,7 @@
 - 📫 How to reach me **nduti316@gmail.com**
 
 - ⚡ Fun fact *AI is the future* but I still love Anime and my favorite was Bleach.
-
+</div>
 
 ### **Having fun with these stack 👨🏽‍💻**
 <br />
