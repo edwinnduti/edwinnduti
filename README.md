@@ -21,6 +21,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwinnduti" alt="edwinnduti" /> </p>
 <div align="left">
    <!-- my details -->
+  - 👩‍🚒 Working as a backend engineer at Zaam
+  
   - 💥 Interests in Artificial Intelligence and Network programming with Golang.
   
   - 📆 Familiar with Azure and Heroku clouds(...and taking Azure Fundamentals exam on December😏)
