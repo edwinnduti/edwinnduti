@@ -31,6 +31,8 @@
   - 📝 I regulary write articles on [https://dev.to/nduti](https://dev.to/nduti)
 
   - 💬 Ask me about **Anime**
+  
+  - 🗣️ I speak English and Swahili.
 
   - 📫 How to reach me **nduti316@gmail.com**
 
