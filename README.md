@@ -41,7 +41,9 @@
 
   - ⚡ Fun fact *AI is the future* but I still love Anime and my favorite was Bleach.
   
-  - 🗺️ Also count me in for adventures and travelling🥳
+  - 🗺️ Also count me in for adventures and travelling🥳 if they can be counted as hobbies.(is coding a hobby or a hobby bytheway?🤔🤭😌)
+  
+  - 📜 ...And bytheway, I am always ready to learn new things, workarounds and technics.
 </div>
 
 
