@@ -21,14 +21,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwinnduti" alt="edwinnduti" /> </p>
 <div align="left">
    <!-- my details -->
+  - 💥 Interests in Artificial Intelligence and Network programming with Golang.
+  
+  - 📆 Familiar with Azure and Heroku clouds(...and taking Azure Fundamentals exam on December😏)
 
-  - ✨ Some of my details are at [my portfolio site](https://edwinswebapp.herokuapp.com)
+  - ✨ Other details are at [my portfolio site](https://edwinswebapp.herokuapp.com)
   
   - 🔭 I’m currently working on [Course Evaluation System](https://lecpros.herokuapp.com)
 
   - 👨‍💻 All of my projects are available at [https://github.com/edwinnduti](https://github.com/edwinnduti)
 
-  - 📝 I regulary write articles on [https://dev.to/nduti](https://dev.to/nduti)
+  - 📝 Blog writer as I regulary write articles on [https://dev.to/nduti](https://dev.to/nduti)
 
   - 💬 Ask me about **Anime**
   
@@ -37,6 +40,8 @@
   - 📫 How to reach me **nduti316@gmail.com**
 
   - ⚡ Fun fact *AI is the future* but I still love Anime and my favorite was Bleach.
+  
+  - 🗺️ Also count me in for adventures and travelling🥳
 </div>
 
 
