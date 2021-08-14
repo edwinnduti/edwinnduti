@@ -29,7 +29,7 @@
 
   - ✨ Other details are at [my portfolio site](https://edwinswebapp.herokuapp.com)
   
-  - 🔭 I’m currently working on [Course Evaluation System](https://lecpros.herokuapp.com)
+  - 🔭 I’m currently working on [Course Evaluation System](https://doratuk.herokuapp.com)
 
   - 👨‍💻 All of my projects are available at [https://github.com/edwinnduti](https://github.com/edwinnduti)
 
