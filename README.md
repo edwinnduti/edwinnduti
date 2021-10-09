@@ -64,6 +64,7 @@ JavaScript   32 mins         ███████░░░░░░░░░░
 Bash         8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 ```
 <!--END_SECTION:waka-->
+  [![wakatime](https://wakatime.com/badge/user/509d91b2-7c76-46ce-b48a-89da8a0cddfe.svg)](https://wakatime.com/@509d91b2-7c76-46ce-b48a-89da8a0cddfe)
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=edwinnduti&show_icons=true" alt="edwinnduti" /> </p>
