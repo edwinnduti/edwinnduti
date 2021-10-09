@@ -4,6 +4,8 @@
 <br />
 <h3 align="center">The dev from +254.</h3>
   <br />
+  
+  [![total wakatime](https://wakatime.com/badge/user/509d91b2-7c76-46ce-b48a-89da8a0cddfe.svg)](https://wakatime.com/@509d91b2-7c76-46ce-b48a-89da8a0cddfe)
 <div>
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 
@@ -19,6 +21,8 @@
 </div>
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edwinnduti" alt="edwinnduti" /> </p>
+  
+  
 <div align="left">
    <!-- my details -->
   - 👩‍🚒 Working as a backend engineer at Zaam
@@ -64,7 +68,7 @@ JavaScript   32 mins         ███████░░░░░░░░░░
 Bash         8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 ```
 <!--END_SECTION:waka-->
-  [![total wakatime](https://wakatime.com/badge/user/509d91b2-7c76-46ce-b48a-89da8a0cddfe.svg)](https://wakatime.com/@509d91b2-7c76-46ce-b48a-89da8a0cddfe)
+  
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=edwinnduti&show_icons=true" alt="edwinnduti" /> </p>
