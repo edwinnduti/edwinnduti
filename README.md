@@ -71,7 +71,12 @@ Assembly     28 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
   
+[![edwinnduti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edwinnduti)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinnduti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=edwinnduti&show_icons=true" alt="edwinnduti" /> </p>
 
