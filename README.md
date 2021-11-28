@@ -70,11 +70,6 @@ Docker       33 mins         █░░░░░░░░░░░░░░░░
 Assembly     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 ```
 <!--END_SECTION:waka-->
-  
-[![edwinnduti's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edwinnduti)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinnduti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
