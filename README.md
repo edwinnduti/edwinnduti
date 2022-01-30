@@ -63,13 +63,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 January, 2022 - 28 January, 2022
+Week: 23 January, 2022 - 29 January, 2022
 
-Go           7 hrs 58 mins   █████████▒░░░░░░░░░░░░░░░   37.88 % 
-JavaScript   7 hrs 30 mins   █████████░░░░░░░░░░░░░░░░   35.67 % 
-YAML         2 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Markdown     1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Docker       1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+JavaScript   8 hrs 35 mins   █████████▒░░░░░░░░░░░░░░░   37.62 % 
+Go           7 hrs 58 mins   ████████▓░░░░░░░░░░░░░░░░   34.88 % 
+YAML         3 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Markdown     1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Docker       1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 ```
 <!--END_SECTION:waka-->
 
