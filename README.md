@@ -29,7 +29,7 @@
   
   - 💥 Interests in Artificial Intelligence and Network programming with Golang.
   
-  - 📆 Familiar with Azure and Heroku clouds(...and taking Azure Fundamentals exam on December😏)
+  - 📆 Familiar with AWS, Azure, Digital Ocean and Heroku cloud😏
 
   - ✨ Other details are at [my portfolio site](https://edwinswebapp.herokuapp.com)
   
