@@ -63,15 +63,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 February, 2022 - 16 February, 2022
+Week: 11 February, 2022 - 17 February, 2022
 
-Total: 36 hrs 16 mins
+Total: 11 hrs 23 mins
 
-JavaScript   29 hrs 45 mins  ████████████████████▒░░░░   81.32 % 
-Go           5 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-JSON         32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Bash         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+JavaScript   11 hrs 23 mins  █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
