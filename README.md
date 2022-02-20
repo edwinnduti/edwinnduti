@@ -63,9 +63,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
-
-Total: 11 hrs 23 mins
+Week: 13 February, 2022 - 19 February, 2022
 
 JavaScript   11 hrs 23 mins  █████████████████████████   100.00 % 
 ```
