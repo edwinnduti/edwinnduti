@@ -64,14 +64,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 February 2022 - To: 02 March 2022
+From: 24 February 2022 - To: 03 March 2022
 
-JavaScript   24 hrs 34 mins  █████████████████████████   99.98 %
+JavaScript   24 hrs 15 mins  ████████████████████████▓   98.84 %
+Go           16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Groovy       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Kotlin       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
