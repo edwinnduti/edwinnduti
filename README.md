@@ -25,9 +25,9 @@
   
 <div align="left">
    <!-- my details -->
-  - 👩‍🚒 Working as a backend engineer at Zaam
+  - 👩‍🚒 Working as a fullstack developer for a client
   
-  - 💥 Interests in Artificial Intelligence and Network programming with Golang.
+  - 💥 Interests in Artificial Intelligence and Blockchain(ethereum contracts).
   
   - 📆 Familiar with AWS, Azure, Digital Ocean and Heroku cloud😏
 
