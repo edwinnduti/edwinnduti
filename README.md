@@ -64,12 +64,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 March 2022 - To: 19 March 2022
+From: 13 March 2022 - To: 20 March 2022
 
-JavaScript   3 hrs 46 mins   █████████████████▓░░░░░░░   70.88 %
-Solidity     51 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
-Assembly     36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+JavaScript   3 hrs 59 mins   █████████████████▒░░░░░░░   69.65 %
+Solidity     51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+Assembly     48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
