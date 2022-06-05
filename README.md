@@ -64,10 +64,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 May 2022 - To: 03 June 2022
+From: 28 May 2022 - To: 04 June 2022
 
-Go     1 hr 43 mins    ████████████████████████░   96.55 %
-Bash   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Go         1 hr 43 mins    ████████████████████████░   96.13 %
+Bash       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
