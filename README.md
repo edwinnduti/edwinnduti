@@ -25,7 +25,7 @@
   
 <div align="left">
    <!-- my details -->
-  - 👩‍🚒 Working as a fullstack developer for a client
+  - 👩‍🚒 Working as a Solutions Engineeer at 4C Group
   
   - 💥 Interests in Artificial Intelligence and Blockchain(ethereum contracts).
   
