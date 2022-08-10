@@ -64,7 +64,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 August 2022 - To: 08 August 2022
+From: 02 August 2022 - To: 09 August 2022
 
 XML      7 hrs 13 mins   ██████████████████░░░░░░░   72.37 %
 JSON     1 hr 24 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
