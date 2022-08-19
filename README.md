@@ -64,13 +64,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 August 2022 - To: 16 August 2022
+From: 11 August 2022 - To: 18 August 2022
 
-JavaScript   1 hr 48 mins    ██████████████▒░░░░░░░░░░   57.75 %
-XML          29 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
-SQL          27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
-YAML         17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-Git Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+XML   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
