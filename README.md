@@ -64,10 +64,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 August 2022 - To: 21 August 2022
+From: 15 August 2022 - To: 22 August 2022
 
-XML   13 mins         ██████████████▓░░░░░░░░░░   59.15 %
-SQL   9 mins          ██████████▒░░░░░░░░░░░░░░   40.85 %
+JSON   15 mins         ████████████████████████▒   97.31 %
+SQL    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 ```
 
 <!--END_SECTION:waka-->
