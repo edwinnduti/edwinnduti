@@ -31,9 +31,9 @@
   
   - 📆 Familiar with AWS, Azure, Digital Ocean and Heroku cloud😏
 
-  - ✨ Other details are at [my portfolio site](https://edwinswebapp.herokuapp.com)
+  - ✨ Other details are at [my linkedIn profile](https://linkedIn.com/in/edwin-nduti)
   
-  - 🔭 I’m currently working on [Course Evaluation System](https://tuksit.herokuapp.com/)
+  - 🔭 I’m currently working on [OpenAPI](https://business.m-pesa.com/)
 
   - 👨‍💻 All of my projects are available at [https://github.com/edwinnduti](https://github.com/edwinnduti)
 
