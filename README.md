@@ -64,7 +64,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 September 2022 - To: 12 September 2022
+From: 06 September 2022 - To: 13 September 2022
 
 JSON     14 mins         ███████████████▒░░░░░░░░░   60.88 %
 HTML     5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
