@@ -64,11 +64,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 September 2022 - To: 20 September 2022
+From: 14 September 2022 - To: 21 September 2022
 
-XML          10 mins         █████████████████████▓░░░   86.76 %
-JavaScript   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-Python       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+JavaScript   0 secs          █████████████░░░░░░░░░░░░   52.46 %
+Python       0 secs          ████████████░░░░░░░░░░░░░   47.54 %
 ```
 
 <!--END_SECTION:waka-->
