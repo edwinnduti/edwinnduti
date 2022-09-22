@@ -27,7 +27,7 @@
    <!-- my details -->
   - 👩‍🚒 Working as a Solutions Engineer II at 4C Group
   
-  - 💥 Interests in Artificial Intelligence and Blockchain(ethereum contracts).
+  - 💥 Interests in Kernel Development, Network Programming and Blockchain(ethereum contracts).
   
   - 📆 Familiar with AWS, Azure, Digital Ocean and Heroku cloud😏
 
