@@ -63,9 +63,9 @@
 
 <!--START_SECTION:waka-->
 
-```text
+<!--```text
 No activity tracked
-```
+```-->
 
 <!--END_SECTION:waka-->
 
