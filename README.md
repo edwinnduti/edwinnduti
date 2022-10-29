@@ -64,11 +64,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 October 2022 - To: 27 October 2022
-
-Python   14 mins         ████████████████████▒░░░░   81.03 %
-Docker   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
-HTML     1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
