@@ -64,10 +64,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 October 2022 - To: 29 October 2022
+From: 23 October 2022 - To: 30 October 2022
 
-JSON   0 secs          ████████████████████▒░░░░   81.75 %
-HTML   0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
+Terraform   20 mins         ███████████████▒░░░░░░░░░   61.13 %
+HCL         12 mins         █████████▒░░░░░░░░░░░░░░░   37.66 %
+HTML        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
