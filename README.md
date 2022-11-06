@@ -64,13 +64,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 October 2022 - To: 04 November 2022
+From: 29 October 2022 - To: 05 November 2022
 
 Python      39 mins         ███████████▒░░░░░░░░░░░░░   45.48 %
 Terraform   34 mins         ██████████░░░░░░░░░░░░░░░   39.44 %
 HCL         12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
 HTML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
