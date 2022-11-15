@@ -64,12 +64,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 November 2022 - To: 13 November 2022
+From: 07 November 2022 - To: 14 November 2022
 
-Python      9 mins          █████████████████░░░░░░░░   67.70 %
-Bash        2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
-JSON        1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
-Terraform   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Bash        2 mins          ███████████▒░░░░░░░░░░░░░   45.26 %
+JSON        1 min           ████████░░░░░░░░░░░░░░░░░   32.31 %
+Python      1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.36 %
+Terraform   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
