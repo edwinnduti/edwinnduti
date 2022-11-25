@@ -64,12 +64,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 November 2022 - To: 23 November 2022
+From: 17 November 2022 - To: 24 November 2022
 
-CSV      48 mins         █████████▒░░░░░░░░░░░░░░░   37.78 %
-SQL      41 mins         ████████░░░░░░░░░░░░░░░░░   31.94 %
-Bash     38 mins         ███████▒░░░░░░░░░░░░░░░░░   29.91 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+CSV      48 mins         ██████████████░░░░░░░░░░░   55.50 %
+Bash     38 mins         ███████████░░░░░░░░░░░░░░   43.94 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
