@@ -64,7 +64,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 22 November 2022 - To: 29 November 2022
+
+SQL      41 mins         ██████████████▒░░░░░░░░░░   57.68 %
+CSV      30 mins         ██████████▒░░░░░░░░░░░░░░   41.74 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
