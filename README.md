@@ -64,7 +64,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 November 2022 - To: 01 December 2022
+From: 25 November 2022 - To: 02 December 2022
 
 SQL      1 hr 19 mins    ██████████████████░░░░░░░   72.11 %
 CSV      30 mins         ███████░░░░░░░░░░░░░░░░░░   27.51 %
