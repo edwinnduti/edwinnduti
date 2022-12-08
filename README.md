@@ -64,11 +64,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 November 2022 - To: 06 December 2022
+From: 30 November 2022 - To: 07 December 2022
 
-SQL     37 mins         ███████████▓░░░░░░░░░░░░░   46.80 %
-XML     28 mins         ████████▓░░░░░░░░░░░░░░░░   34.85 %
-Other   14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
+XML     28 mins         ████████████████▒░░░░░░░░   65.54 %
+Other   14 mins         ████████▓░░░░░░░░░░░░░░░░   34.46 %
 ```
 
 <!--END_SECTION:waka-->
