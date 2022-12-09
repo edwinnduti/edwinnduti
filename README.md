@@ -64,10 +64,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 November 2022 - To: 07 December 2022
+From: 01 December 2022 - To: 08 December 2022
 
-XML     28 mins         ████████████████▒░░░░░░░░   65.54 %
-Other   14 mins         ████████▓░░░░░░░░░░░░░░░░   34.46 %
+XML      28 mins         ███████████▓░░░░░░░░░░░░░   46.01 %
+Python   18 mins         ███████▒░░░░░░░░░░░░░░░░░   29.80 %
+Other    14 mins         ██████░░░░░░░░░░░░░░░░░░░   24.19 %
 ```
 
 <!--END_SECTION:waka-->
