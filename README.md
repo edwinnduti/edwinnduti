@@ -64,14 +64,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 December 2022 - To: 15 December 2022
+From: 09 December 2022 - To: 16 December 2022
 
-Python     23 mins         █████████████▒░░░░░░░░░░░   53.32 %
-Java       18 mins         ██████████▒░░░░░░░░░░░░░░   41.87 %
-Text       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-C          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python   20 mins         █████████████████████████   99.99 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
