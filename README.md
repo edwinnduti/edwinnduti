@@ -64,7 +64,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 December 2022 - To: 24 December 2022
+From: 18 December 2022 - To: 25 December 2022
 
 Java     46 mins         ██████████████████▒░░░░░░   73.34 %
 CSV      12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.30 %
