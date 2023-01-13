@@ -64,11 +64,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 January 2023 - To: 11 January 2023
+From: 05 January 2023 - To: 12 January 2023
 
-Go       3 hrs 39 mins   ██████████████████▒░░░░░░   72.88 %
-CSV      1 hr 20 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.71 %
-Python   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Go    3 hrs 39 mins   ███████████████████░░░░░░   76.03 %
+CSV   1 hr 9 mins     ██████░░░░░░░░░░░░░░░░░░░   23.97 %
 ```
 
 <!--END_SECTION:waka-->
