@@ -33,7 +33,7 @@
 
   - ✨ Other details are at [my linkedIn profile](https://linkedIn.com/in/edwin-nduti)
   
-  - 🔭 I’m currently working on [OpenAPI](https://business.m-pesa.com/)
+  - 🔭 I’m currently working on more code.
 
   - 👨‍💻 All of my projects are available at [https://github.com/edwinnduti](https://github.com/edwinnduti)
 
