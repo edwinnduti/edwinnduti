@@ -64,10 +64,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 January 2023 - To: 31 January 2023
+From: 25 January 2023 - To: 01 February 2023
 
-Go           39 mins         ████████████████▒░░░░░░░░   65.88 %
-JavaScript   20 mins         ████████▓░░░░░░░░░░░░░░░░   34.12 %
+Go           39 mins         █████████████░░░░░░░░░░░░   51.94 %
+JavaScript   35 mins         ███████████▓░░░░░░░░░░░░░   46.61 %
+XML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
