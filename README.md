@@ -64,13 +64,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 February 2023 - To: 11 February 2023
+From: 05 February 2023 - To: 12 February 2023
 
 Java         7 hrs 11 mins   █████████████▒░░░░░░░░░░░   53.77 %
-JavaScript   5 hrs 25 mins   ██████████░░░░░░░░░░░░░░░   40.58 %
+JavaScript   5 hrs 25 mins   ██████████░░░░░░░░░░░░░░░   40.57 %
 XML          23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 Python       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
