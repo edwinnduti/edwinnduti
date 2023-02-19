@@ -64,7 +64,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 February 2023 - To: 17 February 2023
+From: 11 February 2023 - To: 18 February 2023
 
 JavaScript       7 hrs 36 mins   ██████████████████░░░░░░░   71.74 %
 Java             1 hr 58 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.65 %
