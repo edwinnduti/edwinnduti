@@ -64,10 +64,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 May 2023 - To: 18 May 2023
+From: 12 May 2023 - To: 19 May 2023
 
-Python   50 mins         ███████████████████████░░   91.34 %
-SQL      4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Python   1 hr 9 mins     ███████████████████████▒░   93.55 %
+SQL      4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
 ```
 
 <!--END_SECTION:waka-->
