@@ -64,11 +64,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 May 2023 - To: 30 May 2023
+From: 24 May 2023 - To: 31 May 2023
 
-Python   2 hrs 42 mins   ████████████████████████▒   97.24 %
-JSON     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-XML      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Python   2 hrs 46 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
