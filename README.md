@@ -64,7 +64,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2023 - To: 30 June 2023
+From: 24 June 2023 - To: 01 July 2023
 
 SQL      3 hrs 29 mins   █████████████████████▓░░░   86.49 %
 CSV      20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
