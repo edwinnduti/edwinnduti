@@ -64,13 +64,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2023 - To: 16 July 2023
+From: 10 July 2023 - To: 17 July 2023
 
-Java         1 hr 14 mins    ██████████▒░░░░░░░░░░░░░░   41.30 %
-Python       47 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
-XML          27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
-JavaScript   18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
-YAML         12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+Python       47 mins         ████████████████████▓░░░░   82.49 %
+JavaScript   10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
 ```
 
 <!--END_SECTION:waka-->
