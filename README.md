@@ -64,7 +64,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2023 - To: 11 August 2023
+From: 05 August 2023 - To: 12 August 2023
 
 XML     48 mins         █████████████████████░░░░   84.61 %
 Other   8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
