@@ -64,12 +64,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2023 - To: 23 September 2023
+From: 17 September 2023 - To: 24 September 2023
 
-C++    2 hrs 9 mins    ██████████████████▓░░░░░░   75.02 %
-Java   42 mins         ██████░░░░░░░░░░░░░░░░░░░   24.65 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+C++    7 hrs 54 mins   ███████████████████████░░   91.78 %
+Java   42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
