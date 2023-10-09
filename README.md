@@ -64,7 +64,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2023 - To: 07 October 2023
+From: 01 October 2023 - To: 08 October 2023
 
 XML      18 mins         ██████████████████░░░░░░░   71.85 %
 Python   7 mins          ███████░░░░░░░░░░░░░░░░░░   28.15 %
