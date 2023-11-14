@@ -64,13 +64,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2023 - To: 11 November 2023
+From: 05 November 2023 - To: 12 November 2023
 
-JavaScript                 4 hrs 55 mins   ████████████▒░░░░░░░░░░░░   48.93 %
-Java                       4 hrs 53 mins   ████████████░░░░░░░░░░░░░   48.50 %
-XML                        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-JSON                       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-textmate                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Java             59 mins         ███████████████████░░░░░░   76.02 %
+JavaScript       12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
+XML              5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
