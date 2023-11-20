@@ -64,7 +64,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2023 - To: 17 November 2023
+From: 11 November 2023 - To: 18 November 2023
 
 JavaScript   4 hrs 17 mins   █████████████████████████   99.34 %
 Java         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
