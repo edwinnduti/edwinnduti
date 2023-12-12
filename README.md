@@ -64,7 +64,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2023 - To: 09 December 2023
+From: 03 December 2023 - To: 10 December 2023
 
 Java           7 hrs 5 mins    █████████▒░░░░░░░░░░░░░░░   37.41 %
 JavaScript     5 hrs 24 mins   ███████░░░░░░░░░░░░░░░░░░   28.56 %
