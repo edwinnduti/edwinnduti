@@ -31,7 +31,7 @@
   
   - 📆 Familiar with AWS, Azure, Digital Ocean and Heroku cloud😏
 
-  - ✨ Other details are at [my linkedIn profile](https://linkedIn.com/in/edwin-nduti)
+  - ✨ Other details are at [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedIn.com/in/edwin-nduti)
   
   - 🔭 I’m currently working on more code.
 
@@ -75,7 +75,8 @@ JSON           9 mins          ▒░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-  
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwinnduti" alt="Edwin Nduti" /> </a> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=edwinnduti&show_icons=true" alt="edwinnduti" /> </p>
 
