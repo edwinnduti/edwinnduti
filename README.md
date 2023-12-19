@@ -66,13 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2023 - To: 17 December 2023
+From: 11 December 2023 - To: 18 December 2023
 
-Java         5 hrs 14 mins   ███████████▒░░░░░░░░░░░░░   45.77 %
-JavaScript   2 hrs 42 mins   ██████░░░░░░░░░░░░░░░░░░░   23.63 %
-XML          2 hrs 7 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
-YAML         46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Java         5 hrs 14 mins   ████████████░░░░░░░░░░░░░   48.26 %
+JavaScript   2 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.86 %
+XML          2 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   19.59 %
+YAML         46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+Markdown     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
