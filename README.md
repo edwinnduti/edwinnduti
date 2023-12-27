@@ -66,13 +66,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2023 - To: 25 December 2023
+From: 19 December 2023 - To: 26 December 2023
 
-Java         1 hr 1 min      ███████████████████████▓░   94.34 %
-JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
