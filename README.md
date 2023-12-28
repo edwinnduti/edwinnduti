@@ -66,9 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2023 - To: 26 December 2023
+From: 20 December 2023 - To: 27 December 2023
 
-No activity tracked
+YAML     54 mins         ████████████▒░░░░░░░░░░░░   49.07 %
+Docker   26 mins         ██████░░░░░░░░░░░░░░░░░░░   23.81 %
+INI      15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
+Go       9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Bash     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
 ```
 
 <!--END_SECTION:waka-->
