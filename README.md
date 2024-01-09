@@ -66,7 +66,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2023 - To: 07 January 2024
+From: 01 January 2024 - To: 08 January 2024
 
 Nginx configuration file   38 mins         █████████████▒░░░░░░░░░░░   53.24 %
 Java                       18 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.97 %
