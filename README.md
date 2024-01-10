@@ -66,13 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2024 - To: 08 January 2024
+From: 02 January 2024 - To: 09 January 2024
 
-Nginx configuration file   38 mins         █████████████▒░░░░░░░░░░░   53.24 %
-Java                       18 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.97 %
-YAML                       8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-Docker                     7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.55 %
-HTML                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java                       3 hrs 19 mins   █████████████▒░░░░░░░░░░░   53.27 %
+Nginx configuration file   38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+Docker                     35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+JavaScript                 34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+YAML                       32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
 ```
 
 <!--END_SECTION:waka-->
