@@ -66,13 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2024 - To: 10 January 2024
+From: 04 January 2024 - To: 11 January 2024
 
-Java             4 hrs 8 mins    ███████████████░░░░░░░░░░   60.49 %
-JavaScript       1 hr 5 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
-YAML             33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-Docker           28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-CLASS            15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Java             4 hrs 10 mins   ██████████████▓░░░░░░░░░░   58.66 %
+JavaScript       1 hr 5 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
+YAML             41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+Docker           28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+CLASS            15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
 ```
 
 <!--END_SECTION:waka-->
