@@ -66,13 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2024 - To: 28 February 2024
+From: 22 February 2024 - To: 29 February 2024
 
-Java                5 hrs 54 mins   ████████████▓░░░░░░░░░░░░   51.08 %
-JavaScript          2 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   19.50 %
-XML                 1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
-Groovy              33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-YAML                21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Java                3 hrs 57 mins   ██████████▓░░░░░░░░░░░░░░   42.89 %
+JavaScript          2 hrs 27 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.65 %
+XML                 2 hrs 14 mins   ██████░░░░░░░░░░░░░░░░░░░   24.29 %
+YAML                33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+JSON                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
