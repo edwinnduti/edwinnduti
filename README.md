@@ -66,13 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2024 - To: 10 April 2024
+From: 04 April 2024 - To: 11 April 2024
 
-Python              37 mins         ████████████▓░░░░░░░░░░░░   50.31 %
-Shell Script        12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.14 %
-Bash                10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
-textmate            9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
-Docker              3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Docker         12 mins         ████████████████████▒░░░░   81.76 %
+Python         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+textmate       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Shell Script   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Groovy         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
