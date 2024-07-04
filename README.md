@@ -66,12 +66,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2024 - To: 02 July 2024
+From: 26 June 2024 - To: 03 July 2024
 
-YAML   15 mins         ███████████▓░░░░░░░░░░░░░   46.26 %
-JSON   9 mins          ███████▒░░░░░░░░░░░░░░░░░   29.09 %
-XML    8 mins          ██████░░░░░░░░░░░░░░░░░░░   24.13 %
-Java   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
