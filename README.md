@@ -66,13 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2024 - To: 04 August 2024
+From: 29 July 2024 - To: 05 August 2024
 
-TypeScript   5 hrs 25 mins   ████████████▒░░░░░░░░░░░░   49.56 %
-Java         3 hrs 16 mins   ███████▒░░░░░░░░░░░░░░░░░   29.97 %
-JavaScript   2 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Docker       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Java         3 hrs 17 mins   ██████████▓░░░░░░░░░░░░░░   42.07 %
+TypeScript   2 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.56 %
+JavaScript   2 hrs 6 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
+YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Docker       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
