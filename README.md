@@ -66,11 +66,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2024 - To: 10 September 2024
+From: 04 September 2024 - To: 11 September 2024
 
-Java   12 mins         ████████████████████████░   96.45 %
-Bash   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Java   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
