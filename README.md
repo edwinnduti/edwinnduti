@@ -66,9 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2024 - To: 12 September 2024
+From: 06 September 2024 - To: 13 September 2024
 
-Java   0 secs          █████████████████████████   100.00 %
+TypeScript   1 hr 57 mins    ███████████████████▒░░░░░   77.62 %
+JavaScript   30 mins         █████░░░░░░░░░░░░░░░░░░░░   20.20 %
+TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
