@@ -66,12 +66,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2024 - To: 22 October 2024
+From: 16 October 2024 - To: 23 October 2024
 
-INI        1 hr 54 mins    █████████████▒░░░░░░░░░░░   53.70 %
-textmate   1 hr 29 mins    ██████████▒░░░░░░░░░░░░░░   41.81 %
-Text       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-YAML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+textmate   1 hr 10 mins    ████████████▒░░░░░░░░░░░░   49.65 %
+INI        1 hr 5 mins     ███████████▓░░░░░░░░░░░░░   46.22 %
+Text       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+YAML       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
