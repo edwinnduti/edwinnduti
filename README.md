@@ -66,7 +66,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2024 - To: 01 November 2024
+From: 27 October 2024 - To: 03 November 2024
 
 Java           10 hrs 27 mins  █████████████████▒░░░░░░░   68.96 %
 XML            2 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
