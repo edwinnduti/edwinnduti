@@ -66,13 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2024 - To: 04 December 2024
+From: 28 November 2024 - To: 05 December 2024
 
-Python       1 hr 46 mins    █████████▓░░░░░░░░░░░░░░░   38.58 %
-INI          1 hr 7 mins     ██████░░░░░░░░░░░░░░░░░░░   24.48 %
-Java         29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-JavaScript   19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-textmate     16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+Java         29 mins         █████████▓░░░░░░░░░░░░░░░   38.09 %
+JavaScript   19 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.41 %
+yarn.lock    10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
+INI          7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+JSON         7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
 ```
 
 <!--END_SECTION:waka-->
