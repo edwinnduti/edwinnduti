@@ -66,12 +66,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2024 - To: 17 December 2024
+From: 11 December 2024 - To: 18 December 2024
 
-JavaScript       1 hr 39 mins    ████████████████████████▓   98.57 %
+JavaScript       1 hr 39 mins    ████████████████████████▓   98.69 %
 Python           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Java             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
