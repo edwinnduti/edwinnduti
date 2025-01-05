@@ -66,12 +66,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2024 - To: 03 January 2025
+From: 28 December 2024 - To: 04 January 2025
 
-JavaScript   14 mins         ███████████████████▓░░░░░   79.27 %
-TypeScript   3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
-JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+JavaScript   14 mins         █████████████████████░░░░   84.22 %
+TypeScript   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
