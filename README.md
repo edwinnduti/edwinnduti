@@ -66,13 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2024 - To: 07 January 2025
+From: 01 January 2025 - To: 08 January 2025
 
-JavaScript    21 mins         ████████████████████▒░░░░   81.21 %
-YAML          3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
-JSON          1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Java          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-IDEA_MODULE   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JavaScript    1 hr 36 mins    ██████████████▒░░░░░░░░░░   57.55 %
+JSON          1 hr            █████████░░░░░░░░░░░░░░░░   36.25 %
+YAML          9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+Java          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+IDEA_MODULE   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
