@@ -66,7 +66,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2025 - To: 11 January 2025
+From: 05 January 2025 - To: 12 January 2025
 
 JavaScript    1 hr 36 mins    █████████░░░░░░░░░░░░░░░░   35.82 %
 INI           1 hr 10 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.08 %
