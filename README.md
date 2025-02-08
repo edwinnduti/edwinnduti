@@ -66,13 +66,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2025 - To: 06 February 2025
+From: 31 January 2025 - To: 07 February 2025
 
-Java           26 mins         ████████▓░░░░░░░░░░░░░░░░   34.60 %
-JavaScript     25 mins         ████████▒░░░░░░░░░░░░░░░░   33.46 %
-Docker         15 mins         █████░░░░░░░░░░░░░░░░░░░░   19.96 %
-JSON           9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript   25 mins         ███████████░░░░░░░░░░░░░░   44.26 %
+Java         23 mins         ██████████░░░░░░░░░░░░░░░   40.05 %
+JSON         9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
 ```
 
 <!--END_SECTION:waka-->
