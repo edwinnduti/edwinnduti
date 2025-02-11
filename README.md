@@ -66,11 +66,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2025 - To: 09 February 2025
+From: 03 February 2025 - To: 10 February 2025
 
-JavaScript   25 mins         ███████████░░░░░░░░░░░░░░   44.26 %
-Java         23 mins         ██████████░░░░░░░░░░░░░░░   40.05 %
-JSON         9 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
+JavaScript   25 mins         ██████████████░░░░░░░░░░░   56.53 %
+Java         10 mins         ██████░░░░░░░░░░░░░░░░░░░   23.43 %
+JSON         9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.04 %
 ```
 
 <!--END_SECTION:waka-->
