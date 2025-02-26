@@ -66,13 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 February 2025 - To: 24 February 2025
+From: 18 February 2025 - To: 25 February 2025
 
-YAML           27 mins         █████████████████▓░░░░░░░   70.64 %
-Docker         4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-Shell Script   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
-Java           2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-Bash           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+XML            2 hrs 26 mins   █████████████▒░░░░░░░░░░░   52.67 %
+YAML           1 hr 9 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
+Java           55 mins         █████░░░░░░░░░░░░░░░░░░░░   20.03 %
+JavaScript     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Docker         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
