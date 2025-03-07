@@ -66,13 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2025 - To: 05 March 2025
+From: 27 February 2025 - To: 06 March 2025
 
-Java             8 hrs 47 mins   █████████████▓░░░░░░░░░░░   55.23 %
-JavaScript       3 hrs 19 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
-YAML             2 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.16 %
-SmartyConfig     33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-INI              21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Java           13 hrs 19 mins  █████████████░░░░░░░░░░░░   51.96 %
+JavaScript     8 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.57 %
+YAML           2 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+XML            49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+JSON           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
