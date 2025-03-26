@@ -66,13 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2025 - To: 24 March 2025
+From: 18 March 2025 - To: 25 March 2025
 
-JavaScript       8 hrs 14 mins   ███████████████████▓░░░░░   78.08 %
-Bash             51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-JSON             34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-GitIgnore file   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Java             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+JavaScript       7 hrs 48 mins   ██████████████████▓░░░░░░   74.39 %
+Bash             51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+JSON             40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+GitIgnore file   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+TypeScript       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 ```
 
 <!--END_SECTION:waka-->
