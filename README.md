@@ -66,13 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 April 2025 - To: 09 April 2025
+From: 03 April 2025 - To: 10 April 2025
 
-TypeScript       3 hrs 31 mins   ███████████████████▓░░░░░   78.97 %
-JavaScript       23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-Markdown         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
-GitIgnore file   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-JSON             6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+TypeScript          4 hrs 41 mins   █████████████▓░░░░░░░░░░░   55.10 %
+Docker              1 hr 27 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
+YAML                41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+JavaScript          30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+Markdown            27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
 ```
 
 <!--END_SECTION:waka-->
