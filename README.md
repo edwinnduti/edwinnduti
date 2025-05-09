@@ -66,13 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2025 - To: 07 May 2025
+From: 01 May 2025 - To: 08 May 2025
 
-TypeScript                 12 hrs 3 mins   ███████▓░░░░░░░░░░░░░░░░░   31.27 %
-Go                         8 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.13 %
-JavaScript                 6 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
-Docker                     4 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-Bash                       1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+TypeScript                 12 hrs 3 mins   ███████▓░░░░░░░░░░░░░░░░░   31.04 %
+Go                         8 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.96 %
+JavaScript                 6 hrs 43 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
+Docker                     4 hrs           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+Bash                       1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
 ```
 
 <!--END_SECTION:waka-->
