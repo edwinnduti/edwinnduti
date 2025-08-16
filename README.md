@@ -66,10 +66,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2025 - To: 14 August 2025
+From: 08 August 2025 - To: 15 August 2025
 
-Java   20 mins         ██████████████████████░░░   88.35 %
-YAML   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+Java   23 mins         ██████████████████████▒░░   89.74 %
+YAML   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
+XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
