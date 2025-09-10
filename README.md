@@ -66,11 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2025 - To: 07 September 2025
+From: 01 September 2025 - To: 08 September 2025
 
-textmate   29 mins         ████████████████░░░░░░░░░   63.41 %
-INI        10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
-YAML       6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
+Go         9 mins          ██████████████▓░░░░░░░░░░   59.05 %
+Bash       5 mins          ████████▓░░░░░░░░░░░░░░░░   34.65 %
+Other      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+SQL        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
