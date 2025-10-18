@@ -66,13 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2025 - To: 15 October 2025
+From: 09 October 2025 - To: 16 October 2025
 
-TypeScript   6 hrs 26 mins   ████████████████▒░░░░░░░░   65.97 %
-Go           3 hrs 7 mins    ████████░░░░░░░░░░░░░░░░░   32.00 %
-Markdown     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+TypeScript   6 hrs 17 mins   ██████████████████████▓░░   91.01 %
+Go           30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
