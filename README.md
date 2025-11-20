@@ -66,13 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2025 - To: 17 November 2025
+From: 11 November 2025 - To: 18 November 2025
 
-Go             3 hrs 16 mins   ████████▓░░░░░░░░░░░░░░░░   34.85 %
-JavaScript     3 hrs 3 mins    ████████░░░░░░░░░░░░░░░░░   32.62 %
-Python         1 hr 38 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
-Java           36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-JSON           16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Go             5 hrs 2 mins    █████████████▓░░░░░░░░░░░   55.08 %
+Python         1 hr 38 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
+Markdown       1 hr 9 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
+Bash           32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Java           29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
 ```
 
 <!--END_SECTION:waka-->
