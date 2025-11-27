@@ -66,13 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2025 - To: 24 November 2025
+From: 18 November 2025 - To: 25 November 2025
 
-Go             1 hr 42 mins    ██████████▓░░░░░░░░░░░░░░   43.28 %
-Markdown       59 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.13 %
-Bash           32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
-Java           22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-Git Config     13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+Java                9 mins          ███████████▓░░░░░░░░░░░░░   46.19 %
+Bash                5 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.59 %
+YAML                5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
+XML                 0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+DockerIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
