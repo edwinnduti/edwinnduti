@@ -66,13 +66,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2025 - To: 25 November 2025
+From: 19 November 2025 - To: 26 November 2025
 
-Java                9 mins          ███████████▓░░░░░░░░░░░░░   46.19 %
-Bash                5 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.59 %
-YAML                5 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
-XML                 0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-DockerIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Bash                5 mins          ███████████████████▓░░░░░   79.11 %
+YAML                1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
+DockerIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
