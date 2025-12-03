@@ -66,11 +66,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2025 - To: 30 November 2025
+From: 24 November 2025 - To: 01 December 2025
 
-Bash                5 mins          ███████████████████▓░░░░░   79.11 %
-YAML                1 min           ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
-DockerIgnore file   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+YAML                1 min           █████████████▒░░░░░░░░░░░   53.28 %
+Bash                0 secs          ██████████░░░░░░░░░░░░░░░   39.53 %
+DockerIgnore file   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
 ```
 
 <!--END_SECTION:waka-->
