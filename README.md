@@ -66,11 +66,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2025 - To: 01 December 2025
+From: 25 November 2025 - To: 02 December 2025
 
-YAML                1 min           █████████████▒░░░░░░░░░░░   53.28 %
-Bash                0 secs          ██████████░░░░░░░░░░░░░░░   39.53 %
-DockerIgnore file   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
