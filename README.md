@@ -66,13 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 March 2026 - To: 11 March 2026
+From: 05 March 2026 - To: 12 March 2026
 
-Java         1 hr 16 mins          ███████████░░░░░░░░░░░░░░   44.39 %
-JavaScript   1 hr 12 mins          ██████████▓░░░░░░░░░░░░░░   42.10 %
-YAML         15 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-JSON         4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-TypeScript   3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Java         1 hr 15 mins          ██████████████████░░░░░░░   72.40 %
+JavaScript   13 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+YAML         11 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
+TypeScript   3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Env File     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
