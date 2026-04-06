@@ -66,11 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 March 2026 - To: 04 April 2026
+From: 29 March 2026 - To: 05 April 2026
 
-TypeScript   53 mins               ██████████████████████▓░░   91.31 %
-Go           4 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-TSConfig     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+JavaScript   1 hr 17 mins          ██████████████▒░░░░░░░░░░   56.83 %
+TypeScript   53 mins               ██████████░░░░░░░░░░░░░░░   39.41 %
+Go           4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+TSConfig     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
