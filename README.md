@@ -66,13 +66,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2026 - To: 24 May 2026
+From: 18 May 2026 - To: 25 May 2026
 
-JSON                           28 mins               ██████████▓░░░░░░░░░░░░░░   42.22 %
-JavaScript                     18 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.67 %
-Java                           17 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.88 %
-XML                            1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-textmate                       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
