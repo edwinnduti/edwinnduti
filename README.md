@@ -66,10 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2026 - To: 19 August 2026
+From: 13 August 2026 - To: 20 August 2026
 
-Java    10 mins               ██████████████████████▓░░   90.41 %
-Other   1 min                 ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
+Java             24 mins               ███████████████████▓░░░░░   78.62 %
+JavaScript       2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+GitIgnore file   1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+XML              1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Other            1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
 ```
 
 <!--END_SECTION:waka-->
