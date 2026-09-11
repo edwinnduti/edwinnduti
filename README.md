@@ -66,13 +66,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2026 - To: 09 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-Markdown                   46 mins               ████████████████░░░░░░░░░   64.63 %
-JavaScript                 11 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
-JSON                       4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-YAML                       3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-Other                      2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+Markdown                   55 mins               █████████████░░░░░░░░░░░░   51.71 %
+Java                       19 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.09 %
+YAML                       11 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+JavaScript                 11 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+JSON                       4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
 ```
 
 <!--END_SECTION:waka-->
